@@ -1,0 +1,15 @@
+# Python cache and environment
+__pycache__/
+.venv/
+
+# Node modules
+node_modules/
+
+# Large files
+*.mp4
+*.avi
+*.zip
+*.exe
+*.log
+*.pkl
+*.h5
